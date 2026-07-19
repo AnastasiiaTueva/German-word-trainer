@@ -10,12 +10,12 @@ The project allows users to create and manage vocabulary lists and practice them
 - Console-based interface
    
    Roadmap
-[x] Console dictionary
-[x] Add/Delete words
-[] Save words to JSON
-[] Load words from JSON
-[] Multiple word lists
-[] Translation quiz
-[] Article trainer
-[] Statistics
-[] GUI
+- [x] Console dictionary
+- [x] Add/Delete words
+- [] Save words to JSON
+- [] Load words from JSON
+- [] Multiple word lists
+- [] Translation quiz
+- [] Article trainer
+- [] Statistics
+- [] GUI
