@@ -1,15 +1,19 @@
 import os
 
+# List creation
 Words = {}
 Lists = {}
 points = 0
 
+# Function that pauses the program after displaying the result until a key is pressed
 def press():
     input("Press any key to continue....")
 
+# Function for clearing the console
 def clear():
     os.system('cls')
 
+# Function for formatting the program menu
 def Menu():
     print("English-German Dictionary")
     print("--------------------------------------------")
