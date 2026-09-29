@@ -1,6 +1,7 @@
 import support
 import lists
 
+# Functions for displaying word lists and lists in general
 def looks():
     support.clear()
     print("English word - German word:\n"
@@ -16,5 +17,5 @@ def looksL():
     "------------------------------")
     for name in support.Lists:
         print(name)
-
+    print("------------------------------")
     support.press()
